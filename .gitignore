@@ -1,0 +1,20 @@
+# Model weights
+*.pt
+models/
+
+# Videos
+videos/
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# Generated and uploaded videos
+outputs/
+uploads/
